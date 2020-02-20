@@ -8,7 +8,7 @@ drawMethod(canvasOut, type, cntxName)
 
 fill(color, cntxName) - color to be used by most shapes
 
-rect(x, y, width, height, cntxName) - makes a rectangle
+rect(x, y, width, height, cntxName)
 
 line(x, y, x1, y1, cntxName)
 
